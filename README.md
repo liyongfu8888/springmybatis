@@ -1,0 +1,2 @@
+# springmybatis
+搭建spring集成mybatis的maven项目，为以后项目的使用做准备
